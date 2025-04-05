@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt d'entrée.md",
+                "file": "Question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt d'entrée"
+              "title": "Question"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "70fb85a2419b8c60",
   "lastOpenFiles": [
-    "Projet ACW (Assistant Contextuel Wallon) - Synthèse Finale V2 (Agentic MCP).md",
     "Prompt d'entrée.md",
+    "Question.md",
+    "Projet ACW (Assistant Contextuel Wallon) - Synthèse Finale V2 (Agentic MCP).md",
     "Welcome.md"
   ]
 }
