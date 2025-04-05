@@ -11,10 +11,14 @@
             "id": "01a965b194242b95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Technique.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Technique"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Technique"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Technique"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Technique.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Technique"
             }
           }
         ]
@@ -161,14 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e4895ebe347e25f",
+  "active": "01a965b194242b95",
   "lastOpenFiles": [
-    "ToDoList V1.md",
-    "Technique.md",
     "Réponse type.md",
-    "Projet de travail.md",
-    "Prompt d'entrée.md",
+    "ToDoList V1.md",
     "Notes Clyde.md",
+    "Prompt d'entrée.md",
+    "Technique.md",
+    "Projet de travail.md",
     "Projet ACW (Assistant Contextuel Wallon) - Synthèse Finale V2 (Agentic MCP).md",
     "Welcome.md"
   ]
