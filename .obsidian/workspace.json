@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes Clyde.md",
+                "file": "Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes Clyde"
+              "title": "Questions"
             }
           }
         ]
@@ -167,9 +167,10 @@
   },
   "active": "70fb85a2419b8c60",
   "lastOpenFiles": [
+    "Notes Clyde.md",
+    "Questions.md",
     "Prompt d'entrée.md",
     "Projet ACW (Assistant Contextuel Wallon) - Synthèse Finale V2 (Agentic MCP).md",
-    "Notes Clyde.md",
     "Welcome.md"
   ]
 }
