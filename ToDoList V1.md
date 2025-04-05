@@ -8,7 +8,7 @@
 
 ## Priorité #1 : Démarrage (Tous)
 
--   [ ] **Valider Cas d'Usage :** Confirmer "Prime Toiture 2025 Fernelmont".
+-   [x] **Valider Cas d'Usage :** Confirmer "Prime Toiture 2025 Fernelmont".
 -   [ ] **Trouver & Préparer Données :** (Cybersec 1 & 2) Trouver 2-5 docs officiels (PDF/Web). Extraire le texte brut -> `/data/*.txt`. **CRUCIAL !** *Si bloqué, créer des données fictives réalistes.*
 -   [ ] **Setup Projet :** (Lead) Repo Git, `venv`, `requirements.txt`.
 -   [ ] **Accès API LLM :** (Lead/Tous) Confirmer clé API fonctionnelle & tester appel simple + Function Calling basique.
@@ -19,7 +19,7 @@
 
 ### Lead Dev (Junior Freelance) - Backend & Orchestration
 
--   [ ] **API Backend :** Mettre en place FastAPI/Flask. Créer endpoint principal `/chat` (POST).
+-   [x] **API Backend :** Mettre en place FastAPI/Flask. Créer endpoint principal `/chat` (POST).
 -   [ ] **Appel LLM :** Intégrer appel API LLM (avec prompt système MCP).
 -   [ ] **Intégration RAG :** Recevoir contexte du module RAG et l'injecter dans le prompt LLM.
 -   [ ] **Orchestration Function Calling :**
@@ -63,3 +63,7 @@
 -   **Git :** Commits fréquents. Branches par feature/personne. PR vers `develop`.
 -   **Communication :** Canal dédié (Discord/Slack...). Points rapides réguliers. Demander de l'aide tôt !
 -   **Focus MVD :** Simple et fonctionnel > Complexe et buggé. Hardcoder si besoin pour la démo.
+-
+
+
+Je t'envoie aussi la todo list, avec ce nouvel aspect du projet, aide moi à la réecrire, prenant en compte le niveau débutant de mes collèges.
