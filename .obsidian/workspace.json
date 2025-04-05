@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technique.md",
+                "file": "ToDoList V1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technique"
+              "title": "ToDoList V1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technique.md",
+                "file": "ToDoList V1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Technique"
+              "title": "Backlinks for ToDoList V1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technique.md",
+                "file": "ToDoList V1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Technique"
+              "title": "Outgoing links from ToDoList V1"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technique.md",
+                "file": "ToDoList V1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Technique"
+              "title": "Outline of ToDoList V1"
             }
           }
         ]
@@ -170,11 +170,11 @@
   },
   "active": "01a965b194242b95",
   "lastOpenFiles": [
+    "Technique.md",
     "Réponse type.md",
     "ToDoList V1.md",
     "Notes Clyde.md",
     "Prompt d'entrée.md",
-    "Technique.md",
     "Projet de travail.md",
     "Projet ACW (Assistant Contextuel Wallon) - Synthèse Finale V2 (Agentic MCP).md",
     "Welcome.md"
