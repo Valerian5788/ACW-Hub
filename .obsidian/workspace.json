@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Question.md",
+                "file": "Projet de travail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Question"
+              "title": "Projet de travail"
             }
           }
         ]
@@ -167,14 +167,14 @@
   },
   "active": "70fb85a2419b8c60",
   "lastOpenFiles": [
-    "ToDoList V1.md",
-    "Technique.md",
-    "Réponse type.md",
+    "Prompt d'entrée.md",
     "Questions.md",
+    "Réponse type.md",
+    "Technique.md",
+    "ToDoList V1.md",
+    "Question.md",
     "Projet de travail.md",
     "Notes Clyde.md",
-    "Prompt d'entrée.md",
-    "Question.md",
     "Projet ACW (Assistant Contextuel Wallon) - Synthèse Finale V2 (Agentic MCP).md",
     "Welcome.md"
   ]
